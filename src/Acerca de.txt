@@ -1,0 +1,20 @@
+En esta web he usado una plantilla sencilla de botstrap 
+https://startbootstrap.com/template/shop-item
+
+
+
+
+
+
+
+https://retropie.org.uk/
+
+
+https://willemm.nl/track-aircraft-using-ads-b-groundstation-virtual-radar-server-vrs/
+
+https://sdr-es.com/2020/05/03/seguimiento-aviones-raspberry-pi/
+
+https://libreelec.tv/
+
+
+Con raspberry pi podermos crear muchas cosas desde un simple servidor web, servidor de impresion, bot para redes sociales, el bajo consumo de este pequeño aordenador es ideal para cualquier tipo de programa servidor que necesitemos en funcionamiento continuo.
